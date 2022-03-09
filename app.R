@@ -1,4 +1,6 @@
-library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
 library(dash)
 library(dashBootstrapComponents)
 library(plotly)
